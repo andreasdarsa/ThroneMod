@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "${mod_description}"
+  },
+  "forge": {
+    "enabled": true
+  }
+}

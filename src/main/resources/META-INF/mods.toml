@@ -1,0 +1,28 @@
+# mods.toml for the Throne Mod
+modLoader="javafml"
+loaderVersion="[51,)"                 # NeoForge loader version (2.x is NeoForge, unlike Forge which was 45+)
+license="All Rights Reserved"
+
+[[mods]]
+modId="throne_mod"
+version="1.0.0"
+displayName="Throne Mod"
+authors="Andreas Darsaklis"
+description="""
+A custom throne with red cloth that players can craft and sit on.
+"""
+
+[[dependencies.throne_mod]]
+modId="forge"
+mandatory=true
+versionRange="[51,)"                  # any NeoForge version 2.x or higher (covers 1.21+ releases)
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.throne_mod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21,)"               # works on 1.21 and all later versions
+ordering="NONE"
+side="BOTH"
+

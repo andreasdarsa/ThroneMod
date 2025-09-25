@@ -11,6 +11,9 @@ Players can craft the throne and use it as a decorative or functional seat.
 - Appears in the creative tab.  
 - Works in both Creative and Survival.
 
+<img width="1827" height="920" alt="Στιγμιότυπο οθόνης 2025-09-18 164555" src="https://github.com/user-attachments/assets/7f32ec29-5d64-43d1-94ef-4ee1559febdc" />
+
+
 ---
 
 ## 🛠️ Installation

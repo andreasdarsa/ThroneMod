@@ -1,6 +1,6 @@
 All Rights Reserved
 
-Copyright (c) 2025 **Andreas Darsaklis**
+Copyright (c) 2025 Andreas Darsaklis
 
 This mod is the intellectual property of its author.
 No redistribution, modification, or reuse of the code, assets, or binaries is permitted without explicit permission.
